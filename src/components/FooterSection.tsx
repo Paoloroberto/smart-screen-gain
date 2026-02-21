@@ -1,11 +1,11 @@
-import logo from "@/assets/logo.png";
+import Logo from "@/components/Logo";
 
 const FooterSection = () => (
   <footer className="border-t border-border/50 py-12 px-4">
     <div className="container mx-auto">
       <div className="grid md:grid-cols-3 gap-8 mb-8">
         <div>
-          <img src={logo} alt="Neuro Data TV" className="h-10 mb-4" />
+          <Logo className="mb-4" />
           <p className="text-sm text-muted-foreground max-w-xs">
             Publicidade inteligente em TV digital. Menos caro, mais eficiente. Todos ganham.
           </p>
