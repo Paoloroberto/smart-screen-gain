@@ -74,7 +74,7 @@ const ContactSection = () => {
               <MessageCircle className="w-6 h-6 text-secondary mb-3" />
               <p className="font-semibold mb-1">WhatsApp</p>
               <a
-                href={`https://wa.me/5547996995430?text=${encodeURIComponent("Olá! Gostaria de saber mais sobre a Neuro Data TV.")}`}
+                href={`https://wa.me/554799699543?text=${encodeURIComponent("Olá! Gostaria de saber mais sobre a Neuro Data TV.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"

@@ -25,7 +25,7 @@ const FooterSection = () => (
             <li>📞 47 9969-9543</li>
             <li>
               <a
-                href={`https://wa.me/5547996995430?text=${encodeURIComponent("Olá!")}`}
+                href={`https://wa.me/554799699543?text=${encodeURIComponent("Olá!")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-foreground transition-colors"
